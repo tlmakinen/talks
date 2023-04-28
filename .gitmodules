@@ -1,6 +1,3 @@
-[submodule "Argonne2019/reveal.js"]
-	path = Argonne2019/reveal.js
-	url = https://github.com/EiffL/reveal.js.git
 [submodule "template/reveal.js"]
 	path = template/reveal.js
 	url = https://github.com/EiffL/reveal.js.git
@@ -16,12 +13,6 @@
 [submodule "Ringberg2019/reveal.js"]
 	path = Ringberg2019/reveal.js
 	url = https://github.com/EiffL/reveal.js.git
-[submodule "Cosmostat2019/reveal.js"]
-	path = Cosmostat2019/reveal.js
-	url = https://github.com/EiffL/reveal.js.git
-[submodule "BlendingUpdate2020/reveal.js"]
-	path = BlendingUpdate2020/reveal.js
-	url = https://github.com/EiffL/reveal.js.git
 [submodule "Argonne2019b/reveal.js"]
 	path = Argonne2019b/reveal.js
 	url = https://github.com/EiffL/reveal.js.git
@@ -33,12 +24,6 @@
 	url = https://github.com/EiffL/reveal.js.git
 [submodule "GalSimHub2020/reveal.js"]
 	path = Lanusse2020/reveal.js
-	url = https://github.com/EiffL/reveal.js.git
-[submodule "CMU2020/reveal.js"]
-	path = CMU2020/reveal.js
-	url = https://github.com/EiffL/reveal.js.git
-[submodule "BASE2020/reveal.js"]
-	path = BASE2020/reveal.js
 	url = https://github.com/EiffL/reveal.js.git
 [submodule "Saclay2020/reveal.js"]
 	path = Saclay2020/reveal.js
@@ -52,29 +37,17 @@
 [submodule "ITA2020/reveal.js"]
 	path = ITA2020/reveal.js
 	url = https://github.com/EiffL/reveal.js.git
-[submodule "DSM2020/reveal.js"]
-	path = DSM2020/reveal.js
-	url = https://github.com/EiffL/reveal.js.git
 [submodule "UdeM2021/reveal.js"]
 	path = UdeM2021/reveal.js
 	url = https://github.com/EiffL/reveal.js.git
 [submodule "Fermilab2021/reveal.js"]
 	path = Fermilab2021/reveal.js
 	url = https://github.com/EiffL/reveal.js.git
-[submodule "Duke2021/reveal.js"]
-	path = Duke2021/reveal.js
-	url = https://github.com/EiffL/reveal.js.git
 [submodule "Princeton2021/reveal.js"]
 	path = Princeton2021/reveal.js
 	url = https://github.com/EiffL/reveal.js.git
-[submodule "AAS2021/reveal.js"]
-	path = AAS2021/reveal.js
-	url = https://github.com/EiffL/reveal.js.git
 [submodule "SF2A2021/reveal.js"]
 	path = SF2A2021/reveal.js
-	url = https://github.com/EiffL/reveal.js.git
-[submodule "DPhP2021/reveal.js"]
-	path = DPhP2021/reveal.js
 	url = https://github.com/EiffL/reveal.js.git
 [submodule "UWC2021/reveal.js"]
 	path = UWC2021/reveal.js
@@ -115,15 +88,6 @@
 [submodule "SciOps2022/reveal.js"]
 	path = SciOps2022/reveal.js
 	url = https://github.com/EiffL/reveal.js.git
-[submodule "EuCAPT2022/reveal.js"]
-	path = EuCAPT2022/reveal.js
-	url = https://github.com/EiffL/reveal.js.git
-[submodule "EAS2022/reveal.js"]
-	path = EAS2022/reveal.js
-	url = https://github.com/EiffL/reveal.js.git
-[submodule "DESC2022/reveal.js"]
-	path = DESC2022/reveal.js
-	url = https://github.com/EiffL/reveal.js.git
 [submodule "Kouremenos2022/reveal.js"]
 	path = Kouremenos2022/reveal.js
 	url = https://github.com/EiffL/reveal.js.git
@@ -133,26 +97,11 @@
 [submodule "Liverpool2022/reveal.js"]
 	path = Liverpool2022/reveal.js
 	url = https://github.com/EiffL/reveal.js.git
-[submodule "Chicago2022/reveal.js"]
-	path = Chicago2022/reveal.js
-	url = https://github.com/EiffL/reveal.js.git
 [submodule "MSU2022/reveal.js"]
 	path = MSU2022/reveal.js
 	url = https://github.com/EiffL/reveal.js.git
 [submodule "Montreal2022/reveal.js"]
 	path = Montreal2022/reveal.js
-	url = https://github.com/EiffL/reveal.js.git
-[submodule "ASNUM2022/reveal.js"]
-	path = ASNUM2022/reveal.js
-	url = https://github.com/EiffL/reveal.js.git
-[submodule "CoPhy2022/reveal.js"]
-	path = CoPhy2023/reveal.js
-	url = https://github.com/EiffL/reveal.js.git
-[submodule "BASP2023/reveal.js"]
-	path = BASP2023/reveal.js
-	url = https://github.com/EiffL/reveal.js.git
-[submodule "Euclid2023/reveal.js"]
-	path = Euclid2023/reveal.js
 	url = https://github.com/EiffL/reveal.js.git
 [submodule "Nice2023/reveal.js"]
 	path = Nice2023/reveal.js
